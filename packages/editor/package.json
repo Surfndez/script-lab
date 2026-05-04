@@ -12,7 +12,7 @@
     "color": "^3.0.0",
     "common": "0.0.1",
     "custom-functions-metadata": "1.0.5",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^4.1.1",
     "lodash": "^4.17.19",
     "moment": "^2.22.2",
     "monaco-editor": "0.18.1",
@@ -28,11 +28,11 @@
     "redux-devtools-extension": "^2.13.5",
     "redux-saga": "^0.16.0",
     "reselect": "^3.0.1",
-    "semver": "^5.5.1",
+    "semver": "^7.7.4",
     "styled-components": "^4.1.1",
     "typesafe-actions": "^2.0.4",
     "typescript": "^3.2.4",
-    "uuid": "^3.2.1"
+    "uuid": "^14.0.0"
   },
   "scripts": {
     "postinstall": "ts-node --project ../../scripts/tsconfig.json scripts/postinstall.ts",
